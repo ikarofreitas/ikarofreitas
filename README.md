@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Íkaro Almeida<br>Sou desenvolvedor Front-End<br>Estudante de Ciência da Computação
+Me chamo Íkaro Almeida<br>Sou desenvolvedor Web<br>Estudante de Ciência da Computação
 
 
 ## 🌐 Socials:
