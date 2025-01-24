@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Desenvolvedor web<br>Estudante de Ciência da Computação
 
 
