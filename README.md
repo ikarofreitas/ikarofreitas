@@ -14,12 +14,6 @@ Web Developer<br>Computer Science Student
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikarofreitas&layout=compact&theme=tokyonight&v=1)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ikarofreitas&limit=5&theme=tokyonight&v=1)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ikarofreitas&icon=0&color=0)](https://visitcount.itsvg.in)
 
