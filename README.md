@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web Developer<br>Computer Science Student
+Web and Mobile Developer<br>Computer Science Student
 
 
 ## 🌐 Socials:
